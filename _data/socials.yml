@@ -2,7 +2,6 @@
 cv_pdf: /assets/pdf/cv.pdf # drop your CV PDF at assets/pdf/cv.pdf (or change path)
 email: kane0113@skku.edu
 github_username: sujin1229
-scholar_userid: TODO_SCHOLAR_ID # your Google Scholar ID (or delete this line if none yet)
-orcid_id: TODO-0000-0000-0000 # your ORCID (or delete)
-linkedin_username: TODO_LINKEDIN # your LinkedIn id (or delete)
+scholar_userid: W8dBEqcAAAAJ
+orcid_id: 0009-0007-5780-1828
 rss_icon: false
