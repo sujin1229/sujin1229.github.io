@@ -1,14 +1,18 @@
 cv:
   name: Sujin Jin
-  label: "M.S. Student — Computer Vision · LLMs · 3D Reconstruction for Construction Safety"
+  label: "M.S. Student — Computer Vision · Large Language Models · 3D Reconstruction for Construction & Infrastructure Safety"
   email: kane0113@skku.edu
   location: Suwon, Republic of Korea
   image: ""
   summary: >
-    Master's student at Sungkyunkwan University (SCIT Lab) developing AI systems
-    for construction and infrastructure safety: multi-CCTV 3D localization, UAV
-    and 3D reconstruction, LLM-guided robot navigation, and multimodal NDT
-    diagnostics. First-author in Automation in Construction.
+    AI-driven civil infrastructure researcher focused on computer vision, large
+    language models, multimodal sensing, and 3D reconstruction for smart
+    construction, structural health monitoring, and infrastructure maintenance.
+    My work develops explainable, data-driven frameworks that integrate visual,
+    NDT, BIM, LiDAR, and ontology-based information for automated defect
+    diagnosis, safety monitoring, and digital-twin applications — a field-first
+    approach that returns technology to practitioners on site. First-author in
+    Automation in Construction.
 
   social_networks:
     - network: GitHub
@@ -23,8 +27,9 @@ cv:
         start_date: 2025-09
         end_date: present
         highlights:
-          - "Smart Construction IT (SCIT) Lab — Advisor: Prof. Seunghee Park"
-          - "GPA: 4.5 / 4.5"
+          - "Smart Construction IT (SCIT) Lab — Advisor: Prof. Seunghee Park · GPA 4.5 / 4.5"
+          - "Thesis: A Virtual Model for Predicting AHU Return-Water Temperature for Energy-Optimal HVAC Operation"
+          - "Coursework: AI & Deep Learning in Construction Data Analysis · Engineering GPT-Based Multi-Agent Systems · Machine Learning in Construction Informatics"
 
       - institution: Sungkyunkwan University (SKKU)
         location: Suwon, Republic of Korea
@@ -34,25 +39,6 @@ cv:
         end_date: 2025-08
         highlights:
           - "Summa cum laude — GPA 4.4/4.5 (Major 4.37/4.5)"
-
-    Experience:
-      - company: Smart Construction IT (SCIT) Lab, SKKU
-        position: Research Assistant
-        location: Suwon, Republic of Korea
-        start_date: 2024-06
-        end_date: 2024-09
-        summary: "Advisor: Prof. Seunghee Park."
-        highlights:
-          - Computer vision, infrastructure maintenance, and structural health monitoring.
-
-      - company: Sungkyunkwan University
-        position: Teaching Assistant — Creative Convergence Design
-        location: Suwon, Republic of Korea
-        start_date: 2025-08
-        end_date: 2025-12
-        summary: "Supervisor: Prof. Jiyoo Park."
-        highlights:
-          - Guided first-year students in applying engineering thinking to real-world design problems.
 
     Publications:
       - title: "Concrete crack reasoning: Explainable defect diagnosis incorporating generative pretrained transformer-4 and multimodal nondestructive testing data"
@@ -78,21 +64,50 @@ cv:
         releaseDate: 2025
         url: https://doi.org/10.1016/j.autcon.2025.106488
 
-    Conference Presentations:
-      - title: "Drone-Based 3D Mapping and Video Data Fusion for Spatially Intelligent Safety Monitoring"
-        awarder: "Computational Structural Engineering Institute of Korea (COSEIK)"
-        date: 2025
-        summary: "Oral presentation."
-      - title: "An Explainable Diagnostic Framework for Concrete Defects Using Multimodal NDT and GPT-4"
-        awarder: "Korea Institute for Structural Maintenance and Inspection (KSMI)"
-        date: 2025
-        summary: "Oral presentation."
-      - title: "Multi-modal Deep Learning-Based Bridge Deterioration Detection using UT and GPR"
-        awarder: "Korea Society of Hazard Mitigation (KOSHAM)"
-        date: 2025
-        summary: "Oral presentation."
+    Projects:
+      - name: "AI-Agent-Based Automated HOS Analysis System (URP Project) (2024)"
+        summary: "LLM multi-agent system for Holistic Operational Signature analysis; Brick Schema ontology-driven feature extraction and LLM-tuned k-means clustering; reached 99.53% cluster-classification accuracy (2 errors / 2,541 cases)."
+      - name: "NeRF to BIM: Integration of LiDAR & Neural Radiance Fields (2024)"
+        summary: "Evaluated NeRF against LiDAR and BIM for precise 3D reconstruction of construction data; studied automated BIM transformation and digital-twin 3D visualization."
+      - name: "AI-Based Worker Safety Monitoring System for Construction Sites (2024)"
+        summary: "Real-time worker-safety monitoring fusing biometric and environmental data, integrated with Structural Health Monitoring for a site safety-evaluation model."
+      - name: "Eco-Friendly Water-Quality Improvement System Using Wind-Powered Ventilation (2024)"
+        summary: "Purification system driven by wind-powered natural ventilation; validated water-quality gains across air-injection methods."
+      - name: "Modular Urban Tensegrity Pedestrian Overpass Design (2023)"
+        summary: "BIM-based design and Twinmotion 3D visualization of a modular tensegrity pedestrian overpass to cut construction time and improve maintenance efficiency."
+      - name: "Olympic Expressway Undergrounding Project (2023)"
+        summary: "Feasibility studies and master planning for undergrounding the Olympic Expressway via economic analysis, simulation, and BIM modeling."
+      - name: "Bambat Overpass Undergrounding & Environmental Improvement Project (2023)"
+        summary: "BIM-based redevelopment plan to underground an existing overpass, analyzing urban environmental impact and economic feasibility."
 
-    Awards and Honors:
+    Conference Presentations:
+      - label: "Drone-Based 3D Mapping and Video Data Fusion for Spatially Intelligent Safety Monitoring (2025)"
+        details: "Computational Structural Engineering Institute of Korea (COSEIK) · Oral Presentation · Excellent Paper Award"
+      - label: "An Explainable Diagnostic Framework for Concrete Defects Using Multimodal NDT and GPT-4 (2025)"
+        details: "Korea Institute for Structural Maintenance and Inspection (KSMI) · Oral Presentation"
+      - label: "Multi-modal Deep Learning-Based Bridge Deterioration Detection using UT and GPR (2025)"
+        details: "Korea Society of Hazard Mitigation (KOSHAM) · Oral Presentation"
+
+    Experience:
+      - company: Smart Construction IT (SCIT) Lab, SKKU
+        position: Research Assistant
+        location: Suwon, Republic of Korea
+        start_date: 2024-06
+        end_date: 2024-09
+        summary: "Advisor: Prof. Seunghee Park."
+        highlights:
+          - Computer vision, infrastructure maintenance, and structural health monitoring.
+
+      - company: Sungkyunkwan University
+        position: Teaching Assistant — Creative Convergence Design
+        location: Suwon, Republic of Korea
+        start_date: 2025-08
+        end_date: 2025-12
+        summary: "Supervisor: Prof. Jiyoo Park."
+        highlights:
+          - Guided first-year students in applying engineering thinking to real-world design problems.
+
+    Awards:
       - title: National Scholarship for Outstanding Students in Science and Engineering
         awarder: Minister of Science and ICT, Republic of Korea
         date: 2024-12
@@ -109,19 +124,20 @@ cv:
         awarder: Korea Engineering & Consulting Association
         date: 2023-09
       - title: "8th National University CM Competition — 4th Place"
+        awarder: MOOYOUNG Construction Management
         date: 2023-09
-      - title: KIBIM BIM Competition — Encouragement Award
+      - title: "KIBIM BIM Competition — Encouragement Award (2023 & 2024)"
         awarder: Korean Institute of Building Information Modeling
-        date: 2023-11
+        date: 2024-11
       - title: Korea Engineering Industry Competition — 4th Place
         awarder: Korea Engineering & Consulting Association
         date: 2024-09
 
     Skills:
-      - name: Programming
-        keywords: "Python, HTML, Streamlit, LangChain (LangSmith, LangGraph), LLM engineering (GPT, Llama)"
-      - name: 3D / CV
-        keywords: "PyTorch, YOLO, VGGT, COLMAP, 3D reconstruction, Qwen2.5-VL"
+      - name: Programming & ML
+        keywords: "Python, HTML, Streamlit, LangChain (LangSmith, LangGraph), LLM engineering (GPT, Llama), AI engineering"
+      - name: CV & 3D
+        keywords: "PyTorch, YOLO, VGGT, COLMAP, Qwen2.5-VL, 3D reconstruction"
       - name: Robotics
         keywords: "ROS 2, Gazebo, Nav2"
       - name: BIM & CAD
@@ -133,15 +149,16 @@ cv:
       - name: Korean
         summary: Native
       - name: English
-        summary: "Professional working proficiency"
+        summary: "TOEFL iBT"
 
     Extracurricular:
-      - company: "KIC DC Tech Frontier Program (with George Washington University)"
-        position: Participant
-        location: Washington, D.C., USA
-        start_date: 2024-07
-        end_date: 2024-07
-      - company: "ACT:U:ALL BIM Construction Study Club, SKKU"
-        position: Member
-        start_date: 2023-03
-        end_date: 2025-08
+      - label: "KIC DC Tech Frontier Program — KIC Washington, with George Washington University (2024)"
+        details: "Washington, D.C., USA · Participant"
+      - label: "ACT:U:ALL BIM Construction Study Club, SKKU (2023–2025)"
+        details: "Member · Student-led study club on BIM-based construction; seminars and team projects"
+
+    Certificates:
+      - name: "POSCO E&C Smart Construction Academy"
+        summary: "Smart-construction professional training program."
+      - name: "Entrepreneurship Exploration Program"
+        summary: "Ministry of Science and ICT."

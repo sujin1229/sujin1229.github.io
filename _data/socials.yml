@@ -1,4 +1,4 @@
-# Social links on the about page. Fill remaining TODOs or delete unused lines.
+# Social links shown on the about page.
 cv_pdf: /assets/pdf/cv.pdf # drop your CV PDF at assets/pdf/cv.pdf (or change path)
 email: kane0113@skku.edu
 github_username: sujin1229

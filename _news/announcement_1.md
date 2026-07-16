@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2026-01-15 09:00:00+0900 # TODO: set the real publication date
+date: 2026-01-15 09:00:00+0900
 inline: true
 related_posts: false
 ---
