@@ -8,11 +8,9 @@ nav_order: 4
 ---
 
 <!--
-  HOW TO ADD YOUR PHOTOS:
-  1. Put images in  assets/img/  (square-ish or landscape both work).
-  2. Replace the `path=` filenames below with yours, e.g. assets/img/coseik_2025_talk.jpg
-  3. Images are click-to-zoom automatically. Keep 1–3 photos per conference.
-  Until you add real photos, the placeholders (assets/img/1.jpg …) will show.
+  Photos live in assets/img/ (coseik_2025.jpg, ksmi_2025.jpg, kosham_2025.jpg).
+  To add more per conference, duplicate a <div class="col-sm-..."> block inside the row.
+  Images are click-to-zoom automatically.
 -->
 
 Below are conference talks from my master's research, mostly on drone/CCTV-based
@@ -25,14 +23,11 @@ site safety and explainable NDT diagnostics.
 _Computational Structural Engineering Institute of Korea (COSEIK), 2025 — Oral Presentation · Excellent Paper Award_
 
 <div class="row justify-content-sm-center">
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/1.jpg" title="COSEIK 2025 — talk" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/2.jpg" title="COSEIK 2025 — venue" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/coseik_2025.jpg" title="Presenting at COSEIK 2025 on drone-based construction-site safety monitoring" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-<div class="caption">TODO: replace with your COSEIK 2025 photos.</div>
+<div class="caption">Presenting at COSEIK 2025 — awarded the Excellent Paper Award.</div>
 
 ---
 
@@ -41,14 +36,11 @@ _Computational Structural Engineering Institute of Korea (COSEIK), 2025 — Oral
 _Korea Institute for Structural Maintenance and Inspection (KSMI), 2025 — Oral Presentation_
 
 <div class="row justify-content-sm-center">
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/3.jpg" title="KSMI 2025" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/4.jpg" title="KSMI 2025" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/ksmi_2025.jpg" title="KSMI 2025 Fall Conference group photo" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-<div class="caption">TODO: replace with your KSMI 2025 photos.</div>
+<div class="caption">At the KSMI 2025 Fall Conference (Korea Institute for Structural Maintenance and Inspection).</div>
 
 ---
 
@@ -57,11 +49,8 @@ _Korea Institute for Structural Maintenance and Inspection (KSMI), 2025 — Oral
 _Korea Society of Hazard Mitigation (KOSHAM), 2025 — Oral Presentation_
 
 <div class="row justify-content-sm-center">
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/5.jpg" title="KOSHAM 2025" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="KOSHAM 2025" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm-5 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/kosham_2025.jpg" title="Presenting at KOSHAM 2025 on bridge deterioration detection" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-<div class="caption">TODO: replace with your KOSHAM 2025 photos.</div>
+<div class="caption">Presenting at KOSHAM 2025 on multi-modal bridge deterioration detection.</div>

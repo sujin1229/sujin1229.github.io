@@ -30,7 +30,8 @@ cv:
         location: Suwon, Republic of Korea
         area: Civil, Architectural Engineering and Landscape Architecture
         studyType: B.Eng.
-        # TODO: add real dates, e.g. start_date: 2021-03 and end_date: 2025-08 (graduated Aug 2025). Left blank for now so the CV renders cleanly.
+        start_date: 2022-03
+        end_date: 2025-08
         highlights:
           - "Summa cum laude — GPA 4.4/4.5 (Major 4.37/4.5)"
 
@@ -132,7 +133,7 @@ cv:
       - name: Korean
         summary: Native
       - name: English
-        summary: "TOEFL iBT (score: TODO)"
+        summary: "Professional working proficiency"
 
     Extracurricular:
       - company: "KIC DC Tech Frontier Program (with George Washington University)"
