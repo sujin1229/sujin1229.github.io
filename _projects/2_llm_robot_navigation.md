@@ -2,7 +2,7 @@
 layout: page
 title: LLM-Guided Robot Navigation & Semantic Risk Mapping
 description: A Clearpath Husky autonomously explores a Gazebo digital twin, reasons about site risks with an LLM, and builds a 3D risk map.
-img: assets/img/7.jpg   # TODO: replace with a real screenshot from Gazebo
+img: assets/img/7.jpg # TODO: replace with a real screenshot from Gazebo
 importance: 2
 category: work
 related_publications: true

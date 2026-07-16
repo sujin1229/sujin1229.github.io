@@ -2,7 +2,7 @@
 layout: page
 title: Multi-CCTV 3D Worker Localization & UAV Reconstruction
 description: Drone-anchored, VGGT-based 3D mapping fused with multi-camera detection for real-time worker safety monitoring.
-img: assets/img/12.jpg   # TODO: replace with a real figure from your work
+img: assets/img/12.jpg # TODO: replace with a real figure from your work
 importance: 1
 category: work
 related_publications: true

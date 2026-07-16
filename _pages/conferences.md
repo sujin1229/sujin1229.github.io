@@ -21,7 +21,8 @@ site safety and explainable NDT diagnostics.
 ---
 
 #### Drone-Based 3D Mapping and Video Data Fusion for Spatially Intelligent Safety Monitoring
-*Computational Structural Engineering Institute of Korea (COSEIK), 2025 — Oral Presentation · Excellent Paper Award*
+
+_Computational Structural Engineering Institute of Korea (COSEIK), 2025 — Oral Presentation · Excellent Paper Award_
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-6 mt-3 mt-md-0">
@@ -36,7 +37,8 @@ site safety and explainable NDT diagnostics.
 ---
 
 #### An Explainable Diagnostic Framework for Concrete Defects Using Multimodal NDT and GPT-4
-*Korea Institute for Structural Maintenance and Inspection (KSMI), 2025 — Oral Presentation*
+
+_Korea Institute for Structural Maintenance and Inspection (KSMI), 2025 — Oral Presentation_
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-6 mt-3 mt-md-0">
@@ -51,7 +53,8 @@ site safety and explainable NDT diagnostics.
 ---
 
 #### Multi-modal Deep Learning-Based Bridge Deterioration Detection using UT and GPR
-*Korea Society of Hazard Mitigation (KOSHAM), 2025 — Oral Presentation*
+
+_Korea Society of Hazard Mitigation (KOSHAM), 2025 — Oral Presentation_
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-6 mt-3 mt-md-0">

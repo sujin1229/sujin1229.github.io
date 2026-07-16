@@ -30,8 +30,7 @@ cv:
         location: Suwon, Republic of Korea
         area: Civil, Architectural Engineering and Landscape Architecture
         studyType: B.Eng.
-        start_date: TODO       # TODO: your undergrad start year
-        end_date: 2025-08
+        # TODO: add real dates, e.g. start_date: 2021-03 and end_date: 2025-08 (graduated Aug 2025). Left blank for now so the CV renders cleanly.
         highlights:
           - "Summa cum laude — GPA 4.4/4.5 (Major 4.37/4.5)"
 
