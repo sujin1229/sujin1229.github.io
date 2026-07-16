@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-01-15 09:00:00+0900   # TODO: set the real publication date
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+First-author paper published in *Automation in Construction* (Vol. 181): **"Concrete crack reasoning: Explainable defect diagnosis incorporating GPT-4 and multimodal NDT data."** 🎉

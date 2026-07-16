@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-10-01 09:00:00+0900   # TODO: set the real date
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Awarded the **Next-Generation Engineer Award (Excellence)** by the Korea Institute for the Promotion of Engineering Education (IPEK).
